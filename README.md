@@ -1,3 +1,5 @@
+# Innovative_system_project_3
+
 This is an end to end implementation of a web application that can detect human emotions such as Anger, Happiness, Surprise, Sadness etc based on the image input given to it.
 For sucessfully predicting the emotion I tried training deep learning model using CNNS, transfer learning models likes VGG-16 AND VGG-19 and custom built Resnets. 
 For the purpose of developing the web application I used HTML, CSS and Bootstrap. 
